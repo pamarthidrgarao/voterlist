@@ -25,7 +25,7 @@ SECRET_KEY = 'y9_69&2%k*(u&xg_r7g9#^apup7wg4-to&i%1p%vsu*2c)--c('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://voterlist.herokuapp.com','voterlist.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
