@@ -1,12 +1,12 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fe86ca4030a08d55dd6847932934df20472e489f76f5c1fc207e6df710a0449d"
+            "sha256": "b2c9386f729f962e5127d34cc2601c7bff6e1bf12a7d29ef9db9b0d77ac6cfc0"
         },
         "pipfile-spec": 6,
         "requires": {
-            "gcc": "7.3",
-            "python_version": "3.6"
+            "python_version": "3.6",
+            "tesseract-ocr": "*"
         },
         "sources": [
             {

@@ -16,4 +16,4 @@ Pillow = "*"
 [requires]
 
 python_version = "3.6"
-gcc = "7.3"
+tesseract-ocr = "*"
