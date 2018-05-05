@@ -14,7 +14,6 @@ pytesseract = "*"
 Pillow = "*"
 tesseract-ocr = "*"
 
-
 [requires]
 
 python_version = "3.6"
