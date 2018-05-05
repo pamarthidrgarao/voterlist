@@ -12,7 +12,6 @@ django-heroku = "*"
 Wand = "*"
 pytesseract = "*"
 Pillow = "*"
-tesseract-ocr = "*"
 
 [requires]
 
