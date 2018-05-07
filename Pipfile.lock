@@ -1,10 +1,12 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b2c9386f729f962e5127d34cc2601c7bff6e1bf12a7d29ef9db9b0d77ac6cfc0"
+            "sha256": "722505c0e60eae0b3179cd4ae39d1d1e20685799cd39310318117da46dcb58a3"
         },
         "pipfile-spec": 6,
         "requires": {
+            "libleptonica-dev": "*",
+            "libtesseract-dev": "*",
             "python_version": "3.6",
             "tesseract-ocr": "*"
         },
@@ -136,6 +138,12 @@
                 "sha256:c06425302f2cf668f1bba7a0a03f3c1d34d4ebeef2c72003da308b3947c7f749"
             ],
             "version": "==2018.4"
+        },
+        "tesserocr": {
+            "hashes": [
+                "sha256:f245c85643acaa6c740885c2cb18c6ca2ddb569756fbdeb10bd85a08c0a9fff2"
+            ],
+            "version": "==2.2.2"
         },
         "wand": {
             "hashes": [
