@@ -12,8 +12,11 @@ django-heroku = "*"
 Wand = "*"
 pytesseract = "*"
 Pillow = "*"
+tesserocr = "*"
 
 [requires]
 
 python_version = "3.6"
 tesseract-ocr = "*"
+libtesseract-dev = "*"
+libleptonica-dev = "*"
